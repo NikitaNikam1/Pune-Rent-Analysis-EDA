@@ -36,6 +36,7 @@ informed decisions.
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
+- Requests
 - BeautifulSoup
 - Jupyter Notebook
 
